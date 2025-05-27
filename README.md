@@ -1,5 +1,5 @@
 
-# 🛒 Supermarket Sales Analysis
+# 🛒 Superstore Sales Analysis
 
 This project performs an exploratory data analysis (EDA) on supermarket sales data. The goal is to uncover key insights regarding sales trends, customer behavior, and product performance using data visualization and statistical analysis.
 
